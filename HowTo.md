@@ -9,8 +9,8 @@ inside the manual all the time.
 
 If you have turned off the most advanced functions for assistance, you can use
 the Speed Sign Button on the left side of your steering wheel to set the cruise
-control to the current speed limit. Then you can up it a bit to avoid driving 3%
-too slow :smile:
+control to the current speed limit. Then you can up the speed with the speed
+adjuster a bit to avoid driving 3% too slow :smile:
 
 *How do I wipe the windows just one time to get rid of some drops?*
 
