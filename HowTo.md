@@ -20,7 +20,7 @@ Push the window wiper stalk upwards one time and let go.
 
 *How do I park the window wipers in upright position?*
 
-Power on, but engine off. Then push the window wiper stalk upwards to times.
+Power on, but engine off. Then push the window wiper stalk upwards two times.
 
 ## Charging issues
 
