@@ -9,8 +9,7 @@ inside the manual all the time.
 
 If you have turned off the most advanced functions for assistance, you can use
 the Speed Sign Button on the left side of your steering wheel to set the cruise
-control to the current speed limit. Then you can up the speed with the speed
-adjuster a bit to avoid driving 3% too slow :smile:
+control to the current speed limit.
 
 *How do I wipe the windows just one time to get rid of some drops?*
 
@@ -26,7 +25,7 @@ Power on, but engine off. Then push the window wiper stalk upwards two times.
 
 Power on, but engine off. Set gear in N(eutral). Long press start without
 touching the brake. (Needs testing, copied from a forum posting on the net). You
-then enter Ignition Plus mode, which does not time out after 10 minutes.
+then enter Permanent IGN (ignition) mode, which does not time out after 10 minutes.
 
 ## Charging issues
 
