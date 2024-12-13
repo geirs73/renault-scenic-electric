@@ -25,7 +25,7 @@ Power on, but engine off. Then push the window wiper stalk upwards two times.
 
 Power on, but engine off. Apply parking brake. Set gear in N(eutral). Long press
 start without touching the brake. You then enter "Permanent IGN" (ignition)
-mode, which does should not time out after a short period.
+mode, which should cause power to not time out after a short period.
 
 ![alt text](img/permanent_ign.jpg)
 
