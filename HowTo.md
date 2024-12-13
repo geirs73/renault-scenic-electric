@@ -7,9 +7,9 @@ inside the manual all the time.
 
 *How do I set the speed when driving?*
 
-If you have turned off the most advanced functions for assistance, you can use
-the Speed Sign Button on the left side of your steering wheel to set the cruise
-control to the current speed limit.
+If you have turned off the most advanced functions for assistance, you can still
+use the Speed Sign Button on the left side of your steering wheel to set the
+cruise control to the current speed limit.
 
 *How do I wipe the windows just one time to get rid of some drops?*
 
