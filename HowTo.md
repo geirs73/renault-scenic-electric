@@ -23,9 +23,11 @@ Power on, but engine off. Then push the window wiper stalk upwards two times.
 
 *How do I keep the ventilation on for a long time?*
 
-Power on, but engine off. Set gear in N(eutral). Long press start without
-touching the brake. (Needs testing, copied from a forum posting on the net). You
-then enter Permanent IGN (ignition) mode, which does not time out after 10 minutes.
+Power on, but engine off. Apply parking brake. Set gear in N(eutral). Long press
+start without touching the brake. You then enter "Permanent IGN" (ignition)
+mode, which does should not time out after a short period.
+
+![alt text](img/permanent_ign.jpg)
 
 ## Charging issues
 
