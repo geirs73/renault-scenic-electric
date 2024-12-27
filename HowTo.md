@@ -27,6 +27,15 @@ Power on, but engine off. Apply parking brake. Set gear in N(eutral). Long press
 start without touching the brake. You then enter "Permanent IGN" (ignition)
 mode, which should cause power to not time out after a short period.
 
+*How do I open the hatch with the button on the dashboard?*
+
+The manual says you should release the button just when the first beep is heard.
+I find that it isn't that easy to make work.
+
+Either: Push downwards on the button until a beep is sounded, then pull the
+button and then opening commences. Or: Pull button upwards until it beeps, then
+push the button and opening commences. (Needs more verification)
+
 ![alt text](img/permanent_ign.jpg)
 
 ## Charging issues
