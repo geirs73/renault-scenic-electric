@@ -51,7 +51,7 @@ a manual override button and some sign that it is in effect.
 
 Reboot the multimedia system. Just like Android Phones, some times, a reboot
 will solve an issue, and it is reasonably quick. Keep your finger on the power
-button for a while, and you get the option to restart the system.
+button for a while, and the screen goes black and the system reboots.
 
 *The volume buttons only moves the mic volume up and down, what do I do?*
 
