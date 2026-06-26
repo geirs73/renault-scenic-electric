@@ -45,13 +45,15 @@ so no pre-conditioning will be started unless it is a via-point. You will get no
 indication that pre-heating is actually in effect. Let us hope Renault gives us
 a manual override button and some sign that it is in effect.
 
-## Multimedia issues while parked
+## Multimedia issues
 
 *Stuff doesn't work as I expect, what do I do?*
 
 Reboot the multimedia system. Just like Android Phones, some times, a reboot
 will solve an issue, and it is reasonably quick. Keep your finger on the power
-button for a while, and the screen goes black and the system reboots.
+button for a while, and the screen goes black and the system reboots. There is 
+no danger in doing this while driving, but you will have to wait system is 
+rebooted to see the navigation.
 
 *The volume buttons only moves the mic volume up and down, what do I do?*
 
