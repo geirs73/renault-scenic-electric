@@ -34,7 +34,7 @@ IGN".
 Trykk ned (eller dra opp) knappen og slipp den umiddelbart når pipet høres. Det
 er ganske merkelig at det er slik, vi får håpe Renault fikser dette i firmware.
 
-![alt text](img/permanent_ign.jpg)
+![alt text](img/permanent_apc.jpg)
 
 ## Lading
 
